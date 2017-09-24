@@ -1,0 +1,15 @@
+{
+  "name": "{{TemplateName}}",
+  "version": "1.0.0",
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+{{GithubRepository}}.git"
+  },
+  "bugs": {
+    "url": "{{GithubRepository}}/issues"
+  },
+  "homepage": "{{GithubRepository}}#readme",
+  "description": "{{Description}}"
+}

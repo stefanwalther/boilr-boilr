@@ -1,0 +1,15 @@
+{
+  "name": "boilr-boilr",
+  "version": "1.0.0",
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-boilr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-boilr/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-boilr#readme",
+  "description": ""
+}
