@@ -1,6 +1,6 @@
 # boilr-boilr
 
-> 
+> A boilr template to create a boilr template.
 
 ---
 
@@ -65,7 +65,7 @@ cd into it, then
 $ boilr template save $(PWD) <template-tag>
 
 # e.g. 
-$ boilr template save $(PWD) boilr-boilr
+$ boilr template save $(PWD) boilr
 ```
 
 if you have for force the local updates, use
