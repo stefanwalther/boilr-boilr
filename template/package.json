@@ -1,6 +1,6 @@
 {
-  "name": "{{TemplateName}}",
-  "version": "1.0.0",
+  "name": "{{RepositoryName}}",
+  "version": "{{Version}}",
   "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
   "license": "MIT",
   "repository": {

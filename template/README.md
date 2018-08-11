@@ -1,4 +1,4 @@
-# boilr Template: {{TemplateName}}
+# boilr Template: {{RepositoryName}}
 
 > {{Description}}
 
@@ -14,7 +14,7 @@ In order to save a template from filesystem to the template registry use the fol
 
 ```sh
 boilr template save <template-path> <template-tag>
-boilr template save ~/boilr-license license
+boilr template save ~/boilr-{{TemplateTag}} {{TemplateTag}}
 ```
 
 The saved template will be saved to local boilr registry.

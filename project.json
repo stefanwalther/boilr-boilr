@@ -1,5 +1,7 @@
 {
-  "TemplateName": "<template-name>",
-  "Description": "<description>",
-  "GithubRepository": "<github-repository>"
+  "RepositoryName": "Name of the repository here (e.g. package.json)",
+  "TemplateTag": "(template tag to be used in boilr)",
+  "Version": "0.1.0",
+  "Description": "...",
+  "GithubRepository": "https://github.com/<username>/<repo-name>/"
 }
