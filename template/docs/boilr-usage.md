@@ -28,7 +28,7 @@ $ boilr template save $(PWD) <template-tag> -f
 ### Use it
 
 ```
-$ boilr template use {%=name%} .
+$ boilr template use {%=TemplateTag%} .
 ```
 
 ### Get all templates
