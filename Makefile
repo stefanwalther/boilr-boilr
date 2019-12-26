@@ -13,7 +13,7 @@ gen-output: reg      						## Generate the sample output
 	mkdir -p ./sample ; \
 	cd ./sample; \
 	boilr template use boilr .; \
-	tree -a -A > ./../docs/boilr-output.md; \
+	tree -a > ./../docs/boilr-output.md; \
 	cd ..; \
 	rm -rf ./sample;
 .PHONY: gen-output
