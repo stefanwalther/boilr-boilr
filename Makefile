@@ -22,4 +22,7 @@ reg:														## Register the current template locally
 	boilr template save $(PWD) boilr -f
 .PHONY: reg
 
+build: gen-readme
+.PHONY: build
+
 
