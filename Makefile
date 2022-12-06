@@ -6,7 +6,7 @@ help:														## Show this help.
 .PHONY: help
 
 gen-readme: gen-output					## Generate README.md (using docker-verb)
-	docker run --rm -v ${PWD}:/opt/verb stefanwalther/verb
+	rm -rf ./README.md && docker run --rm -v ${PWD}:/opt/verb stefanwalther/verb
 .PHONY: gen-readme
 
 gen-output: reg      						## Generate the sample output
