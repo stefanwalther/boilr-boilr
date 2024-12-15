@@ -1,7 +1,7 @@
 {
   "name": "{{RepositoryName}}",
   "version": "{{Version}}",
-  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "author": "Stefan Walther <swr.nixda@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
