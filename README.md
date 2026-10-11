@@ -92,10 +92,38 @@ $ boilr template list
 ## About
 
 ### Related projects
-Some related projects:
 
-- [stefanwalther/boilr-editorconfig](https://github.com/stefanwalther/boilr-editorconfig)
-- [stefanwalther/boilr-gitignore](https://github.com/stefanwalther/boilr-gitignore)
+Other boilr templates (all retired and archived, like this one):
+
+- [boilr](https://github.com/stefanwalther/boilr)
+- [boilr-akita-entity](https://github.com/stefanwalther/boilr-akita-entity)
+- [boilr-akita-filter](https://github.com/stefanwalther/boilr-akita-filter)
+- [boilr-boilr-doc](https://github.com/stefanwalther/boilr-boilr-doc)
+- [boilr-changelog](https://github.com/stefanwalther/boilr-changelog)
+- [boilr-circleci](https://github.com/stefanwalther/boilr-circleci)
+- [boilr-dependabot](https://github.com/stefanwalther/boilr-dependabot)
+- [boilr-dockerfile-nodejs](https://github.com/stefanwalther/boilr-dockerfile-nodejs)
+- [boilr-dockerignore](https://github.com/stefanwalther/boilr-dockerignore)
+- [boilr-docs](https://github.com/stefanwalther/boilr-docs)
+- [boilr-docs-author](https://github.com/stefanwalther/boilr-docs-author)
+- [boilr-docs-contributing](https://github.com/stefanwalther/boilr-docs-contributing)
+- [boilr-editorconfig](https://github.com/stefanwalther/boilr-editorconfig)
+- [boilr-eslintrc](https://github.com/stefanwalther/boilr-eslintrc)
+- [boilr-gitignore](https://github.com/stefanwalther/boilr-gitignore)
+- [boilr-github-template-extensions](https://github.com/stefanwalther/boilr-github-template-extensions)
+- [boilr-lic-mit](https://github.com/stefanwalther/boilr-lic-mit)
+- [boilr-makefile](https://github.com/stefanwalther/boilr-makefile)
+- [boilr-mocha-conf](https://github.com/stefanwalther/boilr-mocha-conf)
+- [boilr-nodemon](https://github.com/stefanwalther/boilr-nodemon)
+- [boilr-npmignore](https://github.com/stefanwalther/boilr-npmignore)
+- [boilr-npmrc](https://github.com/stefanwalther/boilr-npmrc)
+- [boilr-nvmrc](https://github.com/stefanwalther/boilr-nvmrc)
+- [boilr-prettier](https://github.com/stefanwalther/boilr-prettier)
+- [boilr-prettierrc](https://github.com/stefanwalther/boilr-prettierrc)
+- [boilr-renovate](https://github.com/stefanwalther/boilr-renovate)
+- [boilr-tsconfig](https://github.com/stefanwalther/boilr-tsconfig)
+
+Full overview: [all boilr repositories](https://github.com/stefanwalther?tab=repositories&q=boilr&type=source)
 
 ### Author
 **Stefan Walther**
@@ -103,7 +131,6 @@ Some related projects:
 * [twitter](http://twitter.com/waltherstefan)
 * [github.com/stefanwalther](http://github.com/stefanwalther)
 * [LinkedIn](https://www.linkedin.com/in/stefanwalther/)
-* [qliksite.io](http://qliksite.io)
 
 ### License
 MIT
